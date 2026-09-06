@@ -22,6 +22,9 @@
       <scope>test</scope>
     </dependency>
     <dependency>
+      <groupId>org.seleniumhq.selenium</groupId>
+      <artifactId>selenium-java</artifactId>
+      <version>4.48.0</version>
       <groupId>io.rest-assured</groupId>
       <artifactId>rest-assured</artifactId>
       <version>6.0.1</version>
