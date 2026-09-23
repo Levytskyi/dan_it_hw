@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Positive Tests" verbose="1">
+    <test name="Positive Tests">
+        <packages>
+            <package name="aqa_hw_6.tests.positive_tests"/>
+        </packages>
+    </test>
+</suite>
