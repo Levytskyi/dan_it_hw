@@ -1,7 +1,9 @@
-build
-out
-reports
-.idea
+build/
+out/
+reports/
+target/
+
+.idea/
 *.iml
 /build
 /out
@@ -9,4 +11,6 @@ reports
 target/
 allure-results/
 allure-report/
+allure-report-credit/
+allure-report-check/
 node_modules/
