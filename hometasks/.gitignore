@@ -5,8 +5,10 @@ target/
 
 .idea/
 *.iml
-
+/build
+/out
 .allure/
+target/
 allure-results/
 allure-report/
 allure-report-credit/
