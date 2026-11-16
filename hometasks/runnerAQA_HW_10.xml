@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Online Store UI Tests">
+    <test name="Cart, Delivery and Product Comparison">
+        <classes>
+            <class name="aqa_hw_10.tests.CartTest"/>
+            <class name="aqa_hw_10.tests.DeliveryInformationTest"/>
+            <class name="aqa_hw_10.tests.ProductComparingTest"/>
+        </classes>
+    </test>
+</suite>
